@@ -1,0 +1,11 @@
+.error-message {
+  color: red;
+}
+.menu {
+  background: black;
+  height: 40px;
+  color: white;
+}
+.equipment > .border-start:first-child {
+  border-left: none !important;
+}
